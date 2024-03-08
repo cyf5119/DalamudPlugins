@@ -1,11 +1,11 @@
 [
   {
-    "Author": "NightmareXIV",
+    "Author": "NightmareXIV, cyf51199(翻译)",
     "Name": "Lifestream",
     "InternalName": "Lifestream",
-    "Punchline": "简化摸以太水晶的传送",
-    "AssemblyVersion": "2.0.1.5",
-    "Description": "简化摸以太水晶的传送",
+    "Punchline": "一个方便都市传送网使用与跨界传送的插件。",
+    "AssemblyVersion": "2.0.1.6",
+    "Description": "- 一键传送至任意服务器或都市传送网目的地\n- 直接在地图上点击城内以太之晶进行传送",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "IconUrl": "https://raw.githubusercontent.com/cyf5119/Lifestream/main/Lifestream/images/icon.png",
