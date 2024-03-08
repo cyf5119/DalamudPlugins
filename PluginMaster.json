@@ -8,8 +8,8 @@
     "Description": "简化摸以太水晶的传送",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
-    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/Lifestream/main/Lifestream/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/download/2.0.1.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/download/2.0.1.5/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/cyf5119/Lifestream/main/Lifestream/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/cyf5119/Lifestream/releases/download/2.0.1.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/cyf5119/Lifestream/releases/download/2.0.1.5/latest.zip",
   }
 ]
