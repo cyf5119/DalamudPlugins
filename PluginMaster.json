@@ -34,6 +34,9 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "更通用的游戏地图",
-  "AcceptsFeedback": false
+  "AcceptsFeedback": false,
+  "IconUrl": "https://raw.githubusercontent.com/ottercorp/DalamudPluginsD17/stable/Mappy/images/icon.png",
+  "DownloadLinkInstall": "https://github.com/cyf5119/Mappy/releases/download/3.0.3.5/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/cyf5119/Mappy/releases/download/3.0.3.5/latest.zip",
 }
 ]
