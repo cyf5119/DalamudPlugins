@@ -21,7 +21,7 @@
   },
   {
   "Author": "MidoriKami, cyf5119(汉化)",
-  "Name": "Mappy",
+  "Name": "MappyCN",
   "InternalName": "Mappy",
   "AssemblyVersion": "3.0.3.5",
   "Description": "用具有多个附加功能的 ImGui 实现替换游戏内地图。\n解除pvp限制。",
