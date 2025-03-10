@@ -1,26 +1,51 @@
 [
-{
-  "Author": "MidoriKami, cyf5119(translator)",
-  "Name": "MappyCN",
-  "InternalName": "Mappy",
-  "AssemblyVersion": "3.1.0.6",
-  "Description": "将游戏中的地图替换为具有几个附加功能的 ImGui 实现。",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/cyf5119/MappyCN",
-  "Tags": [
-    "map",
-    "mapping",
-    "overlay",
-    "utility"
-  ],
-  "DalamudApiLevel": 11,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "Punchline": "更通用的游戏内地图",
-  "AcceptsFeedback": false,
-  "DownloadLinkInstall": "https://github.com/cyf5119/MappyCN/releases/download/3.1.0.6/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/cyf5119/MappyCN/releases/download/3.1.0.6/latest.zip"
-}
+  {
+    "Author": "MidoriKami, cyf5119(translator)",
+    "Name": "MappyCN",
+    "InternalName": "Mappy",
+    "AssemblyVersion": "3.1.0.6",
+    "Description": "将游戏中的地图替换为具有几个附加功能的ImGui实现。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cyf5119/MappyCN",
+    "Tags": [
+      "map",
+      "mapping",
+      "overlay",
+      "utility"
+    ],
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "更通用的游戏内地图",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/cyf5119/MappyCN/releases/download/3.1.0.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/cyf5119/MappyCN/releases/download/3.1.0.6/latest.zip"
+  },
+  {
+    "Author": "Infi, PunishedPineapple, cyf5119(translator)",
+    "Name": "Waymark Preset Plugin CN",
+    "InternalName": "WaymarkPresetPlugin",
+    "AssemblyVersion": "1.5.3.3",
+    "Description": "允许你保存、编辑、放置、导入、导出以及预览无限数量的场地标点预设。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cyf5119/WaymarkPresetPlugin",
+    "Tags": [
+      "Waymark",
+      "Marker",
+      "Preset",
+      "Tool"
+    ],
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "提供场地标点管理",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/cyf5119/WaymarkPresetPlugin/releases/download/1.5.3.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/cyf5119/WaymarkPresetPlugin/releases/download/1.5.3.3/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/cyf5119/WaymarkPresetPlugin/main/docs/Images/icon.png"
+  }
 ]
