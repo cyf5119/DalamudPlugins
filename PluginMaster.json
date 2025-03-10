@@ -1,22 +1,24 @@
 [
-  {
-    "Author": "NightmareXIV, cyf51199(汉化)",
-    "Name": "Lifestream",
-    "InternalName": "Lifestream",
-    "AssemblyVersion": "2.0.1.6",
-    "Description": "- 一键传送至任意服务器或都市传送网目的地\n- 直接在地图上点击城内以太之晶进行传送",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/cyf5119/Lifestream",
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 1,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "一个方便都市传送网使用与跨界传送的插件。",
-    "AcceptsFeedback": true,
-    "Changelog": "汉化。",
-    "IconUrl": "https://raw.githubusercontent.com/cyf5119/Lifestream/main/Lifestream/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/cyf5119/Lifestream/releases/download/2.0.1.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/cyf5119/Lifestream/releases/download/2.0.1.6/latest.zip",
-  }
+{
+  "Author": "MidoriKami, cyf5119(translator)",
+  "Name": "MappyCN",
+  "InternalName": "Mappy",
+  "AssemblyVersion": "3.1.0.6",
+  "Description": "将游戏中的地图替换为具有几个附加功能的 ImGui 实现。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/cyf5119/MappyCN",
+  "Tags": [
+    "map",
+    "mapping",
+    "overlay",
+    "utility"
+  ],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "更通用的游戏内地图",
+  "AcceptsFeedback": false
+}
 ]
