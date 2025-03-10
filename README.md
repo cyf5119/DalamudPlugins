@@ -11,3 +11,4 @@ https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json
 ## 插件列表  
 
 * [MappyCN](https://github.com/cyf5119/MappyCN)
+* [WaymarkPresetPluginCN](https://github.com/cyf5119/WaymarkPresetPlugin)
